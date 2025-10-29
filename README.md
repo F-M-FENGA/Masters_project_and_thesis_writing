@@ -1,4 +1,4 @@
-# Master-s-project-and-thesis-writing  
+# Masters project and thesis writing  
 
 This repository gathers several academic and scientific works conducted during the Master’s program in Physics at the University of Yaoundé I.  
 It includes:  
@@ -15,7 +15,7 @@ It includes:
 - Contribute to biomedical innovation worldwide, with a focus on Africa and Cameroon. 
 
 ### 📂 Repository Content
-- `Masterthesis_Franklin_Fenga.pdf` → Full thesis (BODIPY, SSVQE, PDT).  
+- `Masterthesis_Franklin_Fenga.pdf` → Full master thesis (BODIPY, SSVQE, PDT).  
 - `Introduction_physique_medicale.pdf` → M1 internship report.  
 - `beamer_physique_medicale.pdf` → Academic presentation.  
 - `Antimicrobial_photodynamic_therapy.pdf` → Scientific article.  
